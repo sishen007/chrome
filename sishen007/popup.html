@@ -1,0 +1,40 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "popup.html".
+ -->
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>sishen007师学通刷课</title>
+    <link href="bootstrap.min.css" rel="stylesheet"/>
+    <script src="popup.js"></script>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<div class="jumbotron" style="width: 600px;height: 200px">
+    <h1>师学通刷课-sishen007</h1>
+</div>
+<div class="progress" id="sishen007-progress">
+    <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"
+         style="width: 60%;">
+        60%
+    </div>
+</div>
+<div class="jumbotron">
+    <div class="container">
+        <!-- 进行获取当前页面的js信息 -->
+        <div id="sishen007-log">
+
+        </div>
+    </div>
+</div>
+</body>
+</html>
+

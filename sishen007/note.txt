@@ -1,0 +1,54 @@
+POST /studyRecord/insertStudyRecord?u_code=1198922insertStudyRecordf62ca3b2-d4b3-4300-91c0-800c82191e06 HTTP/1.1
+Host: pn201913029.stu.teacher.com.cn
+Connection: keep-alive
+Content-Length: 257
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://pn201913029.stu.teacher.com.cn
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Content-Type: application/json
+Referer: http://pn201913029.stu.teacher.com.cn/course/intoSelectCourseVideo?courseCode=GZKB1901006A&studyPlanId=5739&studyPlanLinkId=72051&courseId=150121&courseCataId=37587
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Cookie: UM_distinctid=16dafce59a39e9-004014c4afb728-7a1437-144000-16dafce59a4afe; SESSION=95215ac9-7d0a-4836-9202-2808835d617b; stu-hb2019-ic-80=r-stu-7.146-80; oauthUserId=959180; userId_cookie=1198922; userId=1198922; access_token=eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOlsiMSJdLCJ1c2VyX25hbWUiOiIxNTIzMzg1NzY2OCIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSJdLCJleHAiOjE1NzMzNTk4MDksInVzZXJJZCI6Ijk1OTE4MEBA6ZmI6ZGrIiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9UUlVTVEVEX0NMSUVOVCIsIlJPTEVfVEVBQ0hFUiJdLCJqdGkiOiI0MjQ0ZjU2MC1kN2VjLTRjYjAtODZlMC0zYWVmZTQwNDU0YTAiLCJjbGllbnRfaWQiOiIxIn0.hLQkIpJ6V2xNncqOYqNrW7sKUQ502qj1IMkKwUeQ__TCRuacDtD1y9PE2acZjF16UPi1Lr_S84AXqrMQYOBmBPW5wjetewb7z88qe2sHRXgXm3-L9PumCRFKjB1wVlklJA6vgPYph77SxW6qUfUO_LA4E5mkw2lLlBeFZiVW8Ns; CNZZDATA1273449705=816581225-1570609607-http%253A%252F%252Fmingshi8.hbte.com.cn%253A5060%252F%7C1573183319; access_token=eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOlsiMSJdLCJ1c2VyX25hbWUiOiIxNTIzMzg1NzY2OCIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSJdLCJleHAiOjE1NzMzNTk4MDksInVzZXJJZCI6Ijk1OTE4MEBA6ZmI6ZGrIiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9UUlVTVEVEX0NMSUVOVCIsIlJPTEVfVEVBQ0hFUiJdLCJqdGkiOiI0MjQ0ZjU2MC1kN2VjLTRjYjAtODZlMC0zYWVmZTQwNDU0YTAiLCJjbGllbnRfaWQiOiIxIn0.hLQkIpJ6V2xNncqOYqNrW7sKUQ502qj1IMkKwUeQ__TCRuacDtD1y9PE2acZjF16UPi1Lr_S84AXqrMQYOBmBPW5wjetewb7z88qe2sHRXgXm3-L9PumCRFKjB1wVlklJA6vgPYph77SxW6qUfUO_LA4E5mkw2lLlBeFZiVW8Ns; c_static_ht=d8292dds21112fy965j; telephone=15233857668; teacherCommunityNewsIsOpenedByStudyPlan=1; projectId=542; student_userId_cookie=1198922; name=%E9%99%88%E9%91%AB
+
+{"studyCircleId":10525,"userId":"1198922","subjectTableId":15559,"fatherTableId":"37587","studyType":1,"studyTime":0,"action":"学习","deviceType":"pc端","studyPlanId":"5739","courseCode":"GZKB1901006A","period":4,"videoTime":2300.152,"actionType":"self"}
+
+
+POST /studyRecord/insertStudyRecord?u_code=1198922insertStudyRecord28144cd3-f431-4209-a7e2-4b0caea28f94 HTTP/1.1
+Host: pn201913029.stu.teacher.com.cn
+Connection: keep-alive
+Content-Length: 256
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://pn201913029.stu.teacher.com.cn
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Content-Type: application/json
+Referer: http://pn201913029.stu.teacher.com.cn/course/intoSelectCourseVideo?courseCode=GZKB1901006A&studyPlanId=5739&studyPlanLinkId=72051&courseId=150121&courseCataId=37588
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Cookie: UM_distinctid=16dafce59a39e9-004014c4afb728-7a1437-144000-16dafce59a4afe; SESSION=95215ac9-7d0a-4836-9202-2808835d617b; stu-hb2019-ic-80=r-stu-7.146-80; oauthUserId=959180; userId_cookie=1198922; userId=1198922; access_token=eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOlsiMSJdLCJ1c2VyX25hbWUiOiIxNTIzMzg1NzY2OCIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSJdLCJleHAiOjE1NzMzNTk4MDksInVzZXJJZCI6Ijk1OTE4MEBA6ZmI6ZGrIiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9UUlVTVEVEX0NMSUVOVCIsIlJPTEVfVEVBQ0hFUiJdLCJqdGkiOiI0MjQ0ZjU2MC1kN2VjLTRjYjAtODZlMC0zYWVmZTQwNDU0YTAiLCJjbGllbnRfaWQiOiIxIn0.hLQkIpJ6V2xNncqOYqNrW7sKUQ502qj1IMkKwUeQ__TCRuacDtD1y9PE2acZjF16UPi1Lr_S84AXqrMQYOBmBPW5wjetewb7z88qe2sHRXgXm3-L9PumCRFKjB1wVlklJA6vgPYph77SxW6qUfUO_LA4E5mkw2lLlBeFZiVW8Ns; CNZZDATA1273449705=816581225-1570609607-http%253A%252F%252Fmingshi8.hbte.com.cn%253A5060%252F%7C1573183319; access_token=eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOlsiMSJdLCJ1c2VyX25hbWUiOiIxNTIzMzg1NzY2OCIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSJdLCJleHAiOjE1NzMzNTk4MDksInVzZXJJZCI6Ijk1OTE4MEBA6ZmI6ZGrIiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9UUlVTVEVEX0NMSUVOVCIsIlJPTEVfVEVBQ0hFUiJdLCJqdGkiOiI0MjQ0ZjU2MC1kN2VjLTRjYjAtODZlMC0zYWVmZTQwNDU0YTAiLCJjbGllbnRfaWQiOiIxIn0.hLQkIpJ6V2xNncqOYqNrW7sKUQ502qj1IMkKwUeQ__TCRuacDtD1y9PE2acZjF16UPi1Lr_S84AXqrMQYOBmBPW5wjetewb7z88qe2sHRXgXm3-L9PumCRFKjB1wVlklJA6vgPYph77SxW6qUfUO_LA4E5mkw2lLlBeFZiVW8Ns; c_static_ht=d8292dds21112fy965j; telephone=15233857668; teacherCommunityNewsIsOpenedByStudyPlan=1; projectId=542; student_userId_cookie=1198922; name=%E9%99%88%E9%91%AB; teacherCommunityNewsIsOpenedByScoreStudent=1
+
+{"studyCircleId":10525,"userId":"1198922","subjectTableId":15560,"fatherTableId":"37588","studyType":1,"studyTime":5,"action":"学习","deviceType":"pc端","studyPlanId":"5739","courseCode":"GZKB1901006A","period":4,"videoTime":295.985,"actionType":"auto"}
+
+====待确定的:
+变量:
+	Header头: Referer： http://pn201913029.stu.teacher.com.cn/course/
+						intoSelectCourseVideo?courseCode=GZKB1901006A&studyPlanId=5739&studyPlanLinkId=72051&courseId=150121&courseCataId=37588
+	Cookie： 不变
+POST参数:
+	提交url: http://pn201913029.stu.teacher.com.cn/studyRecord/insertStudyRecord?u_code=1198922insertStudyRecord28144cd3-f431-4209-a7e2-4b0caea28f94
+			 中 u_code 生成方式改变
+	studyTime 5 5 
+	videoTime 295.985 595.899 
+	actionType auto
+	
+
+	http://pn201913029.stu.teacher.com.cn/generate/getCode?userId=1198922&businessCode=insertStudyRecord&access_token=eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOlsiMSJdLCJ1c2VyX25hbWUiOiIxNTIzMzg1NzY2OCIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSJdLCJleHAiOjE1NzMzNTk4MDksInVzZXJJZCI6Ijk1OTE4MEBA6ZmI6ZGrIiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9UUlVTVEVEX0NMSUVOVCIsIlJPTEVfVEVBQ0hFUiJdLCJqdGkiOiI0MjQ0ZjU2MC1kN2VjLTRjYjAtODZlMC0zYWVmZTQwNDU0YTAiLCJjbGllbnRfaWQiOiIxIn0.hLQkIpJ6V2xNncqOYqNrW7sKUQ502qj1IMkKwUeQ__TCRuacDtD1y9PE2acZjF16UPi1Lr_S84AXqrMQYOBmBPW5wjetewb7z88qe2sHRXgXm3-L9PumCRFKjB1wVlklJA6vgPYph77SxW6qUfUO_LA4E5mkw2lLlBeFZiVW8Ns
+
+
+获取u_code
+id: 5738
+projectPhaseId: 453
+
+{"studyCircleId":10525,"userId":"1198922","subjectTableId":0,"fatherTableId":8756,"studyType":13,"studyTime":5,"action":"学习","deviceType":"pc端","studyPlanId":"5739","courseCode":"txz542aw","actionType":"auto","period":5}
